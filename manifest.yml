@@ -1,0 +1,4 @@
+---
+applications:
+- name: dialogflow
+  command: node api.js
